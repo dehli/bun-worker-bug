@@ -2,9 +2,15 @@
 bun run index.mts
 ```
 
-Expected
+## Expected
+
+```
 Hello from main thread
 Hello from worker thread
+```
 
-Actual
+## Actual
+
+```
 Hello from main thread
+```
